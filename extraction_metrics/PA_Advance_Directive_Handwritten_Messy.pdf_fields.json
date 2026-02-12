@@ -1,0 +1,72 @@
+{
+  "fields": {
+    "principal_name": {
+      "found": true,
+      "value": "Dorothy Mae Fitzgerald"
+    },
+    "principal_address": {
+      "found": true,
+      "value": "Reading, Berks County, PA"
+    },
+    "agent_name": {
+      "found": true,
+      "value": "Catherine E. Fitzgerald-Walsh"
+    },
+    "agent_address": {
+      "found": true,
+      "value": "314 Penn Ave., West Reading, PA 19611"
+    },
+    "agent_relationship": {
+      "found": true,
+      "value": "Daughter"
+    },
+    "successor_agent": {
+      "found": true,
+      "value": "Thomas J. Fitzgerald Jr."
+    },
+    "document_type": {
+      "found": true,
+      "value": "Advance Health Care Directive"
+    },
+    "governing_state": {
+      "found": true,
+      "value": "Commonwealth of Pennsylvania"
+    },
+    "governing_statute": {
+      "found": true,
+      "value": "20 Pa.C.S. \u00a7\u00a7 5451-5465"
+    },
+    "powers_granted": {
+      "found": true,
+      "value": "Health care treatment decisions, including specific instructions for life-prolonging treatment, mental health treatment, and organ donation preferences."
+    },
+    "effective_date": {
+      "found": false,
+      "value": "NOT FOUND"
+    },
+    "execution_date": {
+      "found": true,
+      "value": "October 3, 2024"
+    },
+    "witness_names": {
+      "found": true,
+      "value": "Barbara K. Moyer, Richard P. Stoudt"
+    },
+    "notary_info": {
+      "found": true,
+      "value": "Sworn and subscribed before me on October 3, 2024. Commission expires November 12, 2026."
+    },
+    "signature_blocks": {
+      "found": true,
+      "value": "present"
+    },
+    "checkboxes_or_selections": {
+      "found": true,
+      "value": "10 found"
+    }
+  },
+  "fields_found": 15,
+  "fields_total": 16,
+  "completeness_pct": 93.75,
+  "quality_notes": "The document is well-extracted with clear identification of most fields. The effective date is missing or not explicitly stated."
+}

@@ -1,0 +1,72 @@
+{
+  "fields": {
+    "principal_name": {
+      "found": true,
+      "value": "Thomas R. Castellano"
+    },
+    "principal_address": {
+      "found": true,
+      "value": "2847 North Lakewood Avenue, Chicago, Illinois 60614"
+    },
+    "agent_name": {
+      "found": true,
+      "value": "Maria E. Castellano"
+    },
+    "agent_address": {
+      "found": true,
+      "value": "2847 North Lakewood Avenue, Chicago, Illinois 60614"
+    },
+    "agent_relationship": {
+      "found": true,
+      "value": "Spouse"
+    },
+    "successor_agent": {
+      "found": false,
+      "value": "NOT FOUND"
+    },
+    "document_type": {
+      "found": true,
+      "value": "Illinois Statutory Short Form Power of Attorney for Property"
+    },
+    "governing_state": {
+      "found": true,
+      "value": "Illinois"
+    },
+    "governing_statute": {
+      "found": true,
+      "value": "755 ILCS 45/3-3"
+    },
+    "powers_granted": {
+      "found": true,
+      "value": "Real estate transactions, Financial institution transactions, Stock and bond transactions, Tangible personal property transactions, Safe deposit box transactions, Insurance and annuity transactions, Retirement plan transactions, Social Security, employment, and military service benefits, Tax matters, Claims and litigation, Commodity and option transactions, Business operations transactions, Borrowing transactions, Estate transactions"
+    },
+    "effective_date": {
+      "found": true,
+      "value": "At the time this Power is signed"
+    },
+    "execution_date": {
+      "found": false,
+      "value": "NOT FOUND"
+    },
+    "witness_names": {
+      "found": false,
+      "value": "NOT FOUND"
+    },
+    "notary_info": {
+      "found": false,
+      "value": "NOT FOUND"
+    },
+    "signature_blocks": {
+      "found": false,
+      "value": "not present"
+    },
+    "checkboxes_or_selections": {
+      "found": true,
+      "value": "1 found (Principal's initials)"
+    }
+  },
+  "fields_found": 10,
+  "fields_total": 16,
+  "completeness_pct": 62.5,
+  "quality_notes": "The document provides clear details for principal, agent, and powers granted, but lacks successor agent details, execution date, witness names, notary information, and signature blocks."
+}

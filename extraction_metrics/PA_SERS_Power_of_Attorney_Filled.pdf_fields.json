@@ -1,0 +1,72 @@
+{
+  "fields": {
+    "principal_name": {
+      "found": true,
+      "value": "Helen Rose Kowalski"
+    },
+    "principal_address": {
+      "found": true,
+      "value": "1847 Chestnut Ridge Road, Harrisburg, PA 17104"
+    },
+    "agent_name": {
+      "found": true,
+      "value": "David M. Kowalski"
+    },
+    "agent_address": {
+      "found": true,
+      "value": "2205 Market Street, Camp Hill, PA 17011"
+    },
+    "agent_relationship": {
+      "found": true,
+      "value": "Son"
+    },
+    "successor_agent": {
+      "found": true,
+      "value": "Patricia A. Kowalski-Brennan"
+    },
+    "document_type": {
+      "found": true,
+      "value": "Power of Attorney"
+    },
+    "governing_state": {
+      "found": true,
+      "value": "Pennsylvania"
+    },
+    "governing_statute": {
+      "found": false,
+      "value": "NOT FOUND"
+    },
+    "powers_granted": {
+      "found": true,
+      "value": "Authority to handle finances, property, and beneficiary designations."
+    },
+    "effective_date": {
+      "found": false,
+      "value": "NOT FOUND"
+    },
+    "execution_date": {
+      "found": true,
+      "value": "September 15, 2024"
+    },
+    "witness_names": {
+      "found": true,
+      "value": "James T. Morrison, Susan L. Chen"
+    },
+    "notary_info": {
+      "found": true,
+      "value": "Roberto A. Martinez, Commission Expires: March 31, 2027"
+    },
+    "signature_blocks": {
+      "found": true,
+      "value": "present"
+    },
+    "checkboxes_or_selections": {
+      "found": true,
+      "value": "2 found"
+    }
+  },
+  "fields_found": 14,
+  "fields_total": 16,
+  "completeness_pct": 87.5,
+  "quality_notes": "The document is well-extracted, but the governing statute and effective date are missing."
+}

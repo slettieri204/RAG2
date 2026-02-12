@@ -1,0 +1,72 @@
+{
+  "fields": {
+    "principal_name": {
+      "found": false,
+      "value": "NOT FOUND"
+    },
+    "principal_address": {
+      "found": false,
+      "value": "NOT FOUND"
+    },
+    "agent_name": {
+      "found": false,
+      "value": "NOT FOUND"
+    },
+    "agent_address": {
+      "found": false,
+      "value": "NOT FOUND"
+    },
+    "agent_relationship": {
+      "found": false,
+      "value": "NOT FOUND"
+    },
+    "successor_agent": {
+      "found": false,
+      "value": "NOT FOUND"
+    },
+    "document_type": {
+      "found": false,
+      "value": "NOT FOUND"
+    },
+    "governing_state": {
+      "found": false,
+      "value": "NOT FOUND"
+    },
+    "governing_statute": {
+      "found": false,
+      "value": "NOT FOUND"
+    },
+    "powers_granted": {
+      "found": false,
+      "value": "NOT FOUND"
+    },
+    "effective_date": {
+      "found": false,
+      "value": "NOT FOUND"
+    },
+    "execution_date": {
+      "found": false,
+      "value": "NOT FOUND"
+    },
+    "witness_names": {
+      "found": false,
+      "value": "NOT FOUND"
+    },
+    "notary_info": {
+      "found": false,
+      "value": "NOT FOUND"
+    },
+    "signature_blocks": {
+      "found": false,
+      "value": "NOT FOUND"
+    },
+    "checkboxes_or_selections": {
+      "found": true,
+      "value": "multiple checkboxes found"
+    }
+  },
+  "fields_found": 1,
+  "fields_total": 16,
+  "completeness_pct": 6.25,
+  "quality_notes": "The extracted text is incomplete and lacks critical information. Only checkbox data is partially visible, but no meaningful fields are present."
+}

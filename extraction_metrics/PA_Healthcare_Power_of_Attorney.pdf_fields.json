@@ -1,0 +1,72 @@
+{
+  "fields": {
+    "principal_name": {
+      "found": true,
+      "value": "Margaret A. Whitfield"
+    },
+    "principal_address": {
+      "found": true,
+      "value": "742 Elmhurst Drive, Apt. 3B, Philadelphia, Pennsylvania 19103"
+    },
+    "agent_name": {
+      "found": true,
+      "value": "Patricia L. Donovan"
+    },
+    "agent_address": {
+      "found": true,
+      "value": "239 Cherry Lane, Harrisburg, Pennsylvania 17101"
+    },
+    "agent_relationship": {
+      "found": true,
+      "value": "Daughter"
+    },
+    "successor_agent": {
+      "found": true,
+      "value": "Robert J. Whitfield (Son)"
+    },
+    "document_type": {
+      "found": true,
+      "value": "Health Care Power of Attorney"
+    },
+    "governing_state": {
+      "found": true,
+      "value": "Pennsylvania"
+    },
+    "governing_statute": {
+      "found": true,
+      "value": "20 Pa.C.S. Sections 5451-5465"
+    },
+    "powers_granted": {
+      "found": true,
+      "value": "Full authority to make health care decisions, including consent/refusal of treatment, access to medical records, organ donation, and end-of-life care decisions."
+    },
+    "effective_date": {
+      "found": true,
+      "value": "Upon determination by attending physician of incapacity"
+    },
+    "execution_date": {
+      "found": true,
+      "value": "March 15, 2025"
+    },
+    "witness_names": {
+      "found": true,
+      "value": "Jennifer M. Kowalski, David R. Thompson"
+    },
+    "notary_info": {
+      "found": false,
+      "value": "NOT FOUND"
+    },
+    "signature_blocks": {
+      "found": true,
+      "value": "present"
+    },
+    "checkboxes_or_selections": {
+      "found": false,
+      "value": "N/A"
+    }
+  },
+  "fields_found": 14,
+  "fields_total": 16,
+  "completeness_pct": 87.5,
+  "quality_notes": "Extraction quality is high; however, notary information and checkboxes/selections are missing or not applicable."
+}

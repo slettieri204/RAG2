@@ -1,0 +1,72 @@
+{
+  "fields": {
+    "principal_name": {
+      "found": true,
+      "value": "Thomas R. Castellano"
+    },
+    "principal_address": {
+      "found": true,
+      "value": "2847 North Lakewood Avenue, Chicago, Illinois 60614"
+    },
+    "agent_name": {
+      "found": true,
+      "value": "Maria E. Castellano"
+    },
+    "agent_address": {
+      "found": true,
+      "value": "2847 North Lakewood Avenue, Chicago, Illinois 60614"
+    },
+    "agent_relationship": {
+      "found": true,
+      "value": "Spouse"
+    },
+    "successor_agent": {
+      "found": true,
+      "value": "Lisa K. Ferraro (Sister)"
+    },
+    "document_type": {
+      "found": true,
+      "value": "Illinois Statutory Short Form Power of Attorney for Health Care"
+    },
+    "governing_state": {
+      "found": true,
+      "value": "Illinois"
+    },
+    "governing_statute": {
+      "found": true,
+      "value": "Illinois Power of Attorney Act (755 ILCS 45/4-1 et seq.)"
+    },
+    "powers_granted": {
+      "found": true,
+      "value": "Health care decisions, access to medical records, end-of-life decisions, organ donation, disposition of remains, mental health treatment."
+    },
+    "effective_date": {
+      "found": false,
+      "value": "NOT FOUND"
+    },
+    "execution_date": {
+      "found": false,
+      "value": "NOT FOUND"
+    },
+    "witness_names": {
+      "found": false,
+      "value": "NOT FOUND"
+    },
+    "notary_info": {
+      "found": false,
+      "value": "NOT FOUND"
+    },
+    "signature_blocks": {
+      "found": false,
+      "value": "not present"
+    },
+    "checkboxes_or_selections": {
+      "found": true,
+      "value": "1 (Principal's initials on Notice)"
+    }
+  },
+  "fields_found": 11,
+  "fields_total": 16,
+  "completeness_pct": 68.75,
+  "quality_notes": "Key fields such as execution date, witness names, and notary information are missing. Signature blocks are also not present, which may affect document validity."
+}

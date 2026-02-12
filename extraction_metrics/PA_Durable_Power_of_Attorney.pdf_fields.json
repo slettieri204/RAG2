@@ -1,0 +1,72 @@
+{
+  "fields": {
+    "principal_name": {
+      "found": true,
+      "value": "Margaret A. Whitfield"
+    },
+    "principal_address": {
+      "found": true,
+      "value": "742 Elmhurst Drive, Apt. 3B, Philadelphia, Pennsylvania 19103"
+    },
+    "agent_name": {
+      "found": true,
+      "value": "Robert J. Whitfield"
+    },
+    "agent_address": {
+      "found": true,
+      "value": "1584 Oakmont Boulevard, Pittsburgh, Pennsylvania 15213"
+    },
+    "agent_relationship": {
+      "found": true,
+      "value": "Son"
+    },
+    "successor_agent": {
+      "found": true,
+      "value": "Patricia L. Donovan"
+    },
+    "document_type": {
+      "found": true,
+      "value": "Durable General Power of Attorney"
+    },
+    "governing_state": {
+      "found": true,
+      "value": "Pennsylvania"
+    },
+    "governing_statute": {
+      "found": true,
+      "value": "20 Pa.C.S. Chapter 56"
+    },
+    "powers_granted": {
+      "found": true,
+      "value": "General authority over real property, personal property, financial transactions, legal actions, and more as defined in 20 Pa.C.S. Section 5602."
+    },
+    "effective_date": {
+      "found": true,
+      "value": "Immediately upon execution"
+    },
+    "execution_date": {
+      "found": true,
+      "value": "March 15, 2025"
+    },
+    "witness_names": {
+      "found": false,
+      "value": "NOT FOUND"
+    },
+    "notary_info": {
+      "found": false,
+      "value": "NOT FOUND"
+    },
+    "signature_blocks": {
+      "found": true,
+      "value": "present"
+    },
+    "checkboxes_or_selections": {
+      "found": false,
+      "value": "N/A"
+    }
+  },
+  "fields_found": 13,
+  "fields_total": 16,
+  "completeness_pct": 81.25,
+  "quality_notes": "The document is well-extracted, but witness names, notary information, and checkboxes/selections are missing or not applicable."
+}

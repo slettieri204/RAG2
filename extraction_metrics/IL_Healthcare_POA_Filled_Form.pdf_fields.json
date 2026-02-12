@@ -1,0 +1,72 @@
+{
+  "fields": {
+    "principal_name": {
+      "found": true,
+      "value": "Robert James Nowak"
+    },
+    "principal_address": {
+      "found": true,
+      "value": "742 W. Belmont Ave., Chicago, IL 60657"
+    },
+    "agent_name": {
+      "found": true,
+      "value": "Anna Marie Nowak"
+    },
+    "agent_address": {
+      "found": true,
+      "value": "742 W. Belmont Ave., Chicago, IL 60657"
+    },
+    "agent_relationship": {
+      "found": true,
+      "value": "Spouse"
+    },
+    "successor_agent": {
+      "found": true,
+      "value": "Michael S. Nowak, Brother, 1205 S. Oak Park Ave., Oak Park, IL 60304"
+    },
+    "document_type": {
+      "found": true,
+      "value": "STATE OF ILLINOIS STATUTORY SHORT FORM POWER OF ATTORNEY FOR HEALTH CARE"
+    },
+    "governing_state": {
+      "found": true,
+      "value": "Illinois"
+    },
+    "governing_statute": {
+      "found": true,
+      "value": "755 ILCS 45/4-10 (Effective July 1, 2011)"
+    },
+    "powers_granted": {
+      "found": true,
+      "value": "Consent to health care treatment, admission/discharge decisions, access to medical records, HIPAA authorization, employ/discharge providers, pain management, organ donation, disposition of remains."
+    },
+    "effective_date": {
+      "found": false,
+      "value": "NOT FOUND"
+    },
+    "execution_date": {
+      "found": true,
+      "value": "January 8, 2025"
+    },
+    "witness_names": {
+      "found": true,
+      "value": "Karen L. Washington"
+    },
+    "notary_info": {
+      "found": true,
+      "value": "Linda T. Park, Commission Expires: June 30, 2027"
+    },
+    "signature_blocks": {
+      "found": true,
+      "value": "present"
+    },
+    "checkboxes_or_selections": {
+      "found": true,
+      "value": "12 found"
+    }
+  },
+  "fields_found": 15,
+  "fields_total": 16,
+  "completeness_pct": 93.75,
+  "quality_notes": "Effective date is missing. All other fields are well-extracted with clear values."
+}
